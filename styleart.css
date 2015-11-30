@@ -1,0 +1,19 @@
+.chart{
+	background-color: white;
+}
+
+.circ1{
+	fill:red ;
+}
+.rect1{
+	position: relative;
+	fill: navy;
+	opacity: 0.8
+	;
+}
+.rect2{
+	fill: maroon;
+}
+.poly1{
+	fill: red;
+}
